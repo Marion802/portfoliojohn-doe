@@ -1,0 +1,82 @@
+.navbar-brand img{ 
+  width: 40px; 
+} 
+
+#background { 
+  background-image: url(./img/hero-bg.jpg); 
+} 
+
+#apropos { 
+  max-width: 100; 
+} 
+
+footer { 
+  background-color: #EEE; 
+img { 
+  width: 20px; 
+} 
+
+.service img:hover{
+  background: #cde1f8;
+}
+
+
+a { 
+  text-decoration: none; 
+} 
+} 
+
+a:visited{
+  color: black;
+}
+
+a:hover{
+  background: white;
+  opacity: 0.8;
+}
+
+
+#banner img {
+  width: 100%;
+}
+
+.card {
+  width: 18rem;
+.card-img-top{
+  width: 60px;
+  margin: auto;
+}
+}
+
+
+#img-fresh {
+  width: 100%;
+}
+
+#img-resto {
+  width: 100%;
+}
+
+#img-espace {
+  width: 100%;
+}
+
+#background-contact {
+  background-image: url(./img/contact-bg.jpg);
+}
+
+.progone {
+  width: 90%;;
+}
+.progtwo {
+  width: 80%;
+} 
+.progthree {
+  width: 70%;
+}
+.progfor{
+  width: 60%;
+}
+.progfive {
+  width: 50%;
+}
